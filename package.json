@@ -1,6 +1,9 @@
 {
   "name": "react-crypto",
   "version": "0.1.0",
+  "engines": {
+    "node": "14.16.1"
+  },
   "private": true,
   "dependencies": {
     "homepage": "https://leocappiello.github.io/react-crypto/",
